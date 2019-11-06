@@ -1,5 +1,6 @@
 HELLO 
 add issue1
 add hogehoge 
+add PuruPuru
 issue2_setsumei 
 issue3 
