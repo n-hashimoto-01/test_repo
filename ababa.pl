@@ -6,7 +6,7 @@ open FH, $file;
 
 while ($line = <FH>) {
 	chomp $line;
-	print $line;
+	print $line . "\n";
 }
 
 close FH;
